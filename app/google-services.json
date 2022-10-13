@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941877696648",
+    "project_id": "biology-grade-12th-textbook",
+    "storage_bucket": "biology-grade-12th-textbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941877696648:android:504fa8715e934a4539a73d",
+        "android_client_info": {
+          "package_name": "com.beckytech.biologygrade12thtextbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941877696648-ha91bgh0g11fe9gkpjv85k2ieimoj30o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_jestkHU8d7Ux2oSluhZEMBQrljXQIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941877696648-ha91bgh0g11fe9gkpjv85k2ieimoj30o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
